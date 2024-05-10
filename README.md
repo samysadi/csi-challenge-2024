@@ -13,7 +13,7 @@ In this challenge, participants are tasked with developing an intelligent agent 
 - `Main.py`: This file contains the main function of the game, acting as the entry point of the application. You can modify this file for your tests, but only the organizers will have the possibility to modify this file during the different rounds of the challenge.
 - `Challenge.py`: At the core of the game, this file manages all aspects of the challenge logic. You should not concern yourself with or modify this file!
 - The folders `sounds` and `icons`: Contain the sounds and icons used by the challenge. You should not modify anything. You do not need to modify these files.
-- The files `PlayerExemple1.py` and `PlayerExemple2.py`: You will need to provide a file similar to one of these two files. This file is documented below.
+- The files `PlayerExemple1.py` and `PlayerExemple2.py`: You will need to provide a file similar to one of these two files. 
 
 ## License
 
